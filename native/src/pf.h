@@ -1,6 +1,7 @@
 // Author: Marcel Laverdet <https://github.com/laverdet>
 #include <nan.h>
 #include <array>
+#include <limits>
 #include <iostream>
 #include <memory>
 #include <stdexcept>
